@@ -2,7 +2,7 @@
 
 A modern, standalone Windows application to prevent Microsoft Teams from automatically switching your status to "Away" during inactivity.
 
-![Teams Status Keeper UI](https://via.placeholder.com/450x650.png?text=Teams+Status+Keeper+UI) *Note: Use your own screenshot here*
+![Teams Status Keeper UI](anti_afk_teams.png)
 
 ## 🚀 Features
 
